@@ -1,6 +1,6 @@
 #include<iostream>
 #include<ctime>
-
+//pruebas
 using namespace std;
 struct Zona{
 double USA=8.0, Centroamerica=5.5, America_del_sur=6.3, Europa=9.7, Asia=16.3, Africa=16.0;
